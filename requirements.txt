@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+requests
+
+# Install torch separately for your platform, e.g. for CPU-only:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
